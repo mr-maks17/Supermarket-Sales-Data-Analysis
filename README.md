@@ -16,5 +16,5 @@
 
 ## Запуск
 1. Установите библиотеки: `pip3 install numpy pandas matplotlib seaborn`.
-2. Запустите `Supermarket_Sales_Analysis.ipynb` в Jupyter Notebook.
+2. Запустите `main.py` 
 
